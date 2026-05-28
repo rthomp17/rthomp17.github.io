@@ -3,7 +3,7 @@ title: "Composable interaction primitives: A structured policy class for efficie
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-13-composable-interaction-primitives
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Super-efficient real-robot RL for high-contact, composable manipulation skills.'
 date: 2024-05-13
 venue: 'IEEE international conference on robotics and automation (ICRA)'
 paperurl: 'https://cs.brown.edu/people/gdk/pubs/cips.pdf'
