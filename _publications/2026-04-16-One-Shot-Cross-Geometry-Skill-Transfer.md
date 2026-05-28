@@ -1,7 +1,7 @@
 ---
 title: "One-Shot Cross-Geometry Skill Transfer through Part Decomposition"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-04-16-One-Shot-Cross-Geometry-Skill-Transfer
 excerpt: 'Learning semantically decomposed models to build robot manipulation skills that generalize.'
 date: 2026-04-16
