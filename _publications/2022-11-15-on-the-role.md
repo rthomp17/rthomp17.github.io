@@ -4,6 +4,7 @@ collection: publications
 category: workshops
 permalink: /publication/2022-11-15-on-the-role
 date: 2022-11-15
+excerpt: 'Super-efficient real-robot RL for high-contact, composable manipulation skills.'
 venue: 'CoRL Workshop on Learning, Perception, and Long Horizon Planning'
 paperurl: 'https://openreview.net/forum?id=mZyo8s_GYP8'
 bibtexurl: 'https://openreview.net/forum?id=mZyo8s_GYP8'
