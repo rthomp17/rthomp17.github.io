@@ -1,0 +1,14 @@
+---
+title: "Composable interaction primitives: A structured policy class for efficiently learning sustained-contact manipulation skills"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-05-13-composable-interaction-primitives
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2024-05-13
+venue: 'IEEE international conference on robotics and automation (ICRA)'
+paperurl: 'https://cs.brown.edu/people/gdk/pubs/cips.pdf'
+bibtexurl: 'https://ieeexplore.ieee.org/abstract/document/10610846'
+citation: 'B. Abbatematteo, E. Rosen, S. Thompson, T. Akbulut, S. Rammohan and G. Konidaris, "Composable Interaction Primitives: A Structured Policy Class for Efficiently Learning Sustained-Contact Manipulation Skills," ICRA, 2024'
+---
+
+We propose a new policy class, Composable Interaction Primitives (CIPs), specialized for learning sustained-contact manipulation skills like opening a drawer, pulling a lever, turning a wheel, or shifting gears. CIPs have two primary design goals: to minimize what must be learned by exploiting structure present in the world and the robot, and to support sequential composition by construction, so that learned skills can be used by a task-level planner. Using an ablation experiment in four simulated manipulation tasks, we show that the structure included in CIPs substantially improves the efficiency of motor skill learning. We then show that CIPs can be used for plan execution in a zero-shot fashion by sequencing learned skills. We validate our approach on real robot hardware by learning and sequencing two manipulation skills.
