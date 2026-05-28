@@ -3,7 +3,7 @@ title: "Shape-based transfer of generic skills"
 collection: publications
 category: conferences
 permalink: /publication/2021-05-30-shape-based-transfer
-excerpt: 'Transferring learned skills by conditioning on latent shape features of tools'
+excerpt: 'Transferring learned skills by conditioning on latent shape features of objects and tools'
 date: 2021-05-30
 venue: 'IEEE International Conference on Robotics and Automation (ICRA),'
 paperurl: 'https://lis.csail.mit.edu/wp-content/uploads/2021/05/thompson_icra_2021_compressed.pdf'
