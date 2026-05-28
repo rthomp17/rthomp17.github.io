@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Shape-based transfer of generic skills"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2021-05-30-shape-based-transfer
+excerpt: 'Transferring learned skills by conditioning on latent shape features of tools'
+date: 2021-05-30
+venue: 'IEEE International Conference on Robotics and Automation (ICRA),'
+paperurl: 'https://lis.csail.mit.edu/wp-content/uploads/2021/05/thompson_icra_2021_compressed.pdf'
+bibtexurl: 'https://ieeexplore.ieee.org/abstract/document/9560894'
+citation: 'S. Thompson, L. P. Kaelbling and T. Lozano-Perez, "Shape-Based Transfer of Generic Skills," ICRA, 2021'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We propose a new, data-efficient approach for skill transfer to novel objects, accounting for known categorical shape variation. A low-dimensional shape representation embedding is learned from a set of deformations, sampled between known objects within a category. This latent representation is mapped to a set of control parameters that result in successful execution of a category-level skill on that object. This method generalizes a learned manipulation policy to unseen objects with few training examples. We demonstrate this approach on pouring from cups and scooping with spatulas, where there is complex, nonlinear variation of successful control parameters across objects.
