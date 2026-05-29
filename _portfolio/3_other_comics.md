@@ -14,13 +14,16 @@ collection: portfolio
 
 Some excerpts of other work done for friends and personal projects: 
 
+<div class="grid" markdown>
 ![mastermind_01](/images/mastermind_02.png)
 ![mastermind_02](/images/mastermind_01.png)
+</div>
 
 
 <img src='/images/other_comic_full.png'> 
 
-  
-<div style="display:inline-block;">
-<img style="float:left;" src='/images/drift_02.png'> <img style="float:left;" src='/images/drift_01.png'>
+
+<div class="grid" markdown>
+![drift_01](/images/drift_02.png)
+![drift_02](/images/drift_01.png)
 </div>
