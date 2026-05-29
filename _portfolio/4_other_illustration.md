@@ -13,6 +13,8 @@ collection: portfolio
 <img src='/images/valor_5.png' style="width :19%;">
 </div>
 
+
 <img src='/images/Cubicle_desk_sprites.jpg'>
+
 
 <img src='/images/TLA_Cubicle_sprites.jpg'>
