@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "R Skye Thompson / Academic personal website"
+title                    : "R Skye Thompson"
 title_separator          : "-"
 name                     : &name "R Skye Thompson"
 description              : &description "Skye Thompson's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "R Skye Thompson"
   pronouns         : "he/him"
-  bio              : "I'm a PhD candidate at Brown University, interested in adaptable skill learning and science communication for robotics. "
+  bio              : "PhD candidate at Brown University, interested in science communication and adaptable robot skill learning. "
   location         : "Providence, RI"
   employer         : "Brown University"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -91,7 +91,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   workshops:
-    title: 'Conference Papers'
+    title: 'Workshops'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
