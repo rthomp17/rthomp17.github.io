@@ -14,4 +14,4 @@ collection: portfolio
 
 Some excerpts of other work done for friends and personal projects: 
 
-<img src='/images/mastermind_01.png'> <img src='/images/mastermind_02.png'> <img src='/images/other_comic_full.png'> <img src='/images/drift_01.png'> <img src='/images/drift_02.png'>
+<img src='/images/mastermind_01.png'> <img src='/images/mastermind_02.png'> <img src='/images/other_comic_full.png'> <img src='/images/drift_02.png'> <img src='/images/drift_01.png'>
