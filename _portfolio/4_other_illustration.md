@@ -18,5 +18,7 @@ collection: portfolio
 </div>
 
 
-<img src='/images/Cubicle_desk_sprites.jpg'>
 <img src='/images/TLA_Cubicle_sprites.jpg'>
+
+
+<img src='/images/Cubicle_desk_sprites.jpg'>
