@@ -1,5 +1,5 @@
 ---
-title: "3 - Other Comics Work"
+title: "Other Comics Work"
 excerpt: "A sampling of other comics work I've done, mostly sci-fi or autobiographical.<img src='/images/other_comic_teaser.jpg'>"
 collection: portfolio
 ---
