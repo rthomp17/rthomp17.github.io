@@ -15,8 +15,8 @@ collection: portfolio
 Some excerpts of other work done for friends and personal projects: 
 
 <div style="display: flex; gap: 10px;">
-<img src='/images/mastermind_02.png' style="width :45%;">
-<img src='/images/mastermind_01.png' style="width :45%;">
+<img src='/images/mastermind_02.png' style="width :49%;">
+<img src='/images/mastermind_01.png' style="width :49%;">
 </div>
 
 
@@ -24,6 +24,6 @@ Some excerpts of other work done for friends and personal projects:
 
 
 <div style="display: flex; gap: 10px;">
-<img src='/images/drift_02.png' style="width :45%;">
-<img src='/images/drift_01.png' style="width :45%;">
+<img src='/images/drift_02.png' style="width :49%;">
+<img src='/images/drift_01.png' style="width :49%;">
 </div>
