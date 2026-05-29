@@ -18,7 +18,5 @@ collection: portfolio
 </div>
 
 
-<div style="display: flex; gap: 10px;">
-<img src='/images/Cubicle_desk_sprites.jpg' style="width :49%;">
-<img src='/images/TLA_Cubicle_sprites.jpg' style="width :49%;">
-</div>
+<img src='/images/Cubicle_desk_sprites.jpg'>
+<img src='/images/TLA_Cubicle_sprites.jpg'>
