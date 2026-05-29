@@ -1,5 +1,5 @@
 ---
-title: "1 - Educational Comics about Robotics"
+title: "Educational Comics about Robotics"
 excerpt: "Short comics about hard problems in robotics, and how roboticists think about solving them.<br/><img src='/images/rbot_web_teaser.png'>"
 collection: portfolio
 ---
