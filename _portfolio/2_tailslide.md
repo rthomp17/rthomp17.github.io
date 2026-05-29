@@ -1,5 +1,5 @@
 ---
-title: "3 - Tailslide (Webcomic)"
+title: "Tailslide (Webcomic)"
 excerpt: "A comic I've been working on since 2020. Has a few hundred pages, all free to read online. <img src='/images/tailslide_teaser.png'>"
 collection: portfolio
 ---
