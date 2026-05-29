@@ -14,16 +14,16 @@ collection: portfolio
 
 Some excerpts of other work done for friends and personal projects: 
 
-<div class="grid_cards" markdown>
-<img src='/images/mastermind_02.png'>
-<img src='/images/mastermind_01.png'>
+<div style="display: flex; gap: 10px;">
+<img src='/images/mastermind_02.png' style="width :50%;">
+<img src='/images/mastermind_01.png' style="width :50%;">
 </div>
 
 
 <img src='/images/other_comic_full.png'> 
 
 
-<div class="grid_cards" markdown>
-<img src='/images/drift_02.png'>
-<img src='/images/drift_01.png'>
+<div style="display: flex; gap: 10px;">
+<img src='/images/drift_02.png' style="width :50%;">
+<img src='/images/drift_01.png' style="width :50%;">
 </div>
