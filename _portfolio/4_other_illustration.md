@@ -1,5 +1,5 @@
 ---
-title: "3 - Other Illustration"
+title: "Other Illustration"
 excerpt: "Other not-comic art that I've done. <img src='/images/other_illustration_teaser.png'>"
 collection: portfolio
 ---
