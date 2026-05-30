@@ -7,7 +7,7 @@ excerpt: 'Skill transfer from a single demonstration via optimization in learned
 date: 2023-06-21
 venue: 'Conference on Robot Learning (CoRL)'
 paperurl: 'https://arxiv.org/abs/2306.12392'
-bibtexurl: 'https://arxiv.org/abs/2306.12392‘
+bibtexurl: 'https://arxiv.org/abs/2306.12392'
 citation: 'O Biza, S Thompson, KR Pagidi, A Kumar… - CoRL, 2023.'
 ---
 
