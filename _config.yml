@@ -23,7 +23,7 @@ repository               : "rthomp17/rthomp17.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "R Skye Thompson"
   pronouns         : "he/him"
   bio              : "PhD candidate at Brown University, interested in science communication and adaptable robot skill learning. "
