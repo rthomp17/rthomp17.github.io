@@ -1,7 +1,7 @@
 ---
 title: "One-shot imitation learning via interaction warping"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2023-06-21-one-shot-imitation-learning
 excerpt: 'Skill transfer from a single demonstration via optimization in learned geometric latent space.'
 date: 2023-06-21
